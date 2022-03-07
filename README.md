@@ -17,9 +17,11 @@ Bank Turnover Dataset - an open-source data available at https://www.kaggle.com/
 * Multiple classification algorithms and explore which of the corresponding model would be the best fit to predict the possibility of bank customer leaving. 
 
 ## Literature Review
+[View Code](https://github.com/microwales/CIND820/blob/main/data_description.ipynb)
 * Quick Review of similar academic works (research, journals, reports, pojects, etc.) carried out on the dataset or other similar dataset
 * Brief Data Exploratory Analysis
 ## Initial Results & Code
+[View Code](https://github.com/microwales/CIND820/blob/main/data_description.ipynb)
 * Data Pre-processing
 * More Data Exploratory Analysis and Evaluation
 * Model Feature Selection & comparison
