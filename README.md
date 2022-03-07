@@ -21,7 +21,7 @@ Bank Turnover Dataset - an open-source data available at https://www.kaggle.com/
 * Quick Review of similar academic works (research, journals, reports, pojects, etc.) carried out on the dataset or other similar dataset
 * Brief Data Exploratory Analysis
 ## Initial Results & Code
-[View Code](https://github.com/microwales/CIND820/blob/main/data_description.ipynb)
+[View Code](https://github.com/microwales/CIND820/blob/main/initial_code_result.ipynb)
 * Data Pre-processing
 * More Data Exploratory Analysis and Evaluation
 * Model Feature Selection & comparison
